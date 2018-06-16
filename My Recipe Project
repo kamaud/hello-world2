@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title>My Recipe Project</title>
+<style>CSS</style>
+</head>
+<body>
+<h1>Soup</h1>
+<p>I aim to outline step by step how to prepare a soup stew</p>
+<section></section>
+<article></article>
+<aside></aside>
+<footer></footer>
+</body>
+</html>
